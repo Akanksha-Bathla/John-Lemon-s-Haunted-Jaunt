@@ -31,7 +31,7 @@ John Lemon is trapped in a spooky mansion filled with patrolling and stationary 
 
 ## **Play the Game**
 Play the WebGL version directly in your browser:  
-👉 [**Play John Lemon’s Haunted Jaunt**]([https://akankshabathla.itch.io/john-lemons-haunted-jaunt?secret=cpOJPYK78LsOQhbtW0ozNffqPKc])
+👉 [**Play John Lemon’s Haunted Jaunt**](https://akankshabathla.itch.io/john-lemons-haunted-jaunt?secret=cpOJPYK78LsOQhbtW0ozNffqPKc)
 
 ---
 
