@@ -43,7 +43,7 @@ Play the WebGL version directly in your browser:
 ## **How to Run Locally**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Akanksha-Bathla/john-lemon-haunted-jaunt.git
+   git clone https://github.com/Akanksha-Bathla/John-Lemon-s-Haunted-Jaunt.git
    
 
 
